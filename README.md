@@ -1,10 +1,10 @@
 # Extension Organizer
-Um script em shell que automatiza a organização de arquivos de maneira recursiva, classificando-os de forma estruturada em pastas correspondentes a suas extensões específicas. Este script simplifica o processo de gerenciamento de arquivos, oferecendo uma abordagem eficiente e organizada para usuários que desejam agrupar seus arquivos com base em tipos específicos.
+A shell script that automates the organization of files recursively, sorting them in a structured manner into folders corresponding to their specific extensions. This script simplifies the file management process by providing an efficient and organized approach for users who want to group their files based on specific types.
 
-## Sintaxe
+## Syntax
 ```bash
 sh file_organizer_based_on_extension.sh [source_folder_path] [destination_folder_path]
 ```
 
-## Demonstração
+## Demonstration
 <img src="./examples/example1.gif" >
